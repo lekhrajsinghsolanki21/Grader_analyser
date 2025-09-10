@@ -64,7 +64,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or support, please contact [lekhrajsinghsolanki@7773gamail.com].
+For questions or support, please contact [lekhrajsinghsolanki@7773gmail.com].
 
 ---
 

@@ -68,4 +68,4 @@ For questions or support, please contact [your-email@example.com].
 
 ---
 
-**Note:** Replace `<your-username>` and `[your-email@example.com]` with your GitHub username and email address.
+**Note:** Replace `<your-username>` and `lekhrajsinghsolanki@7773gamail.com` with your GitHub username and email address.

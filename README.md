@@ -64,8 +64,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com].
+For questions or support, please contact [lekhrajsinghsolanki@7773gamail.com].
 
 ---
 
-**Note:** Replace `<your-username>` and `lekhrajsinghsolanki@7773gamail.com` with your GitHub username and email address.
